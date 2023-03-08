@@ -1,0 +1,1 @@
+Build do projeto ``docker-compose up -d --build`` # todoList
